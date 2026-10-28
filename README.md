@@ -1,7 +1,7 @@
 
 ## 🤖 Rafeeq (رفيق) - Madar Municipal Services AI Agent
 ---
-**SDAIA Academy Capstone Project** - 
+**SDAIA Academy Project** - 
  **Agentic AI Systems Engineering** - 
  **Https://sdaiaacademy.github.io/agentic-ai/**
 
